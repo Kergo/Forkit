@@ -408,6 +408,8 @@
         </div>
     </div>
 
-<script type="text/javascript" src="dist/js/bundle.js"></script></body>
+<script type="text/javascript" src="dist/js/bundle.js"></script>
+
+</body>
 
 </html>
