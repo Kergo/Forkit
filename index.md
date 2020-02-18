@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,600,700" rel="stylesheet">
     <link rel="stylesheet" href="dist/css/style.css">
     <link rel="shortcut icon" href="dist/img/favicon.png" type="image/x-icon">
+    <script type="text/javascript" src="dist/js/bundle.js"></script>
     <title>forkit // Search over 1,000,000 recipes</title>
 </head>
 
